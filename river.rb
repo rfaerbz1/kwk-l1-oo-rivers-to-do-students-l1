@@ -15,3 +15,15 @@ class River
     @discharge = @discharge - @discharge * 50 / 100
   end
 end 
+
+nile = River.new 
+
+mississippi = River.new 
+
+amazon = River.new 
+
+seine = River.new 
+
+yangtze = River.new
+
+euphrates = River.new
