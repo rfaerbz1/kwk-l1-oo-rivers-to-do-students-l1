@@ -2,8 +2,7 @@
 class River 
   def initialize(name)
     @name = name
-    @countries = countries
-    @discharge = discharge
+  end
     
     def length= (length)
       @length = length
