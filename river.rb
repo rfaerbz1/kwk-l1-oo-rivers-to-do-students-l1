@@ -59,6 +59,7 @@ yangtze = River.new("Yangtze")
 yangtze.length = 6357
 yangtze.countries = "China"
 yangtze.discharge = 30166
+yangtze.flood
 
 euphrates = River.new("Euphrates")
 euphrates.length = 2800
