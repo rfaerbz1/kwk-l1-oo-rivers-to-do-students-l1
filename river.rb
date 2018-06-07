@@ -36,7 +36,10 @@ class River
   end
 end 
 
-nile = River.new ("Nile", 6853, ["Egypt", "Sudan", "South Sudan", "Ethiopia", "Uganda", "Congo", "Kenya", "Tanzania", "Rwanda", "Burundi", "Eritrea"], 2830)
+nile = River.new ("Nile") 
+nile.length = 6853 
+nile.countries = ["Egypt", "Sudan", "South Sudan", "Ethiopia", "Uganda", "Congo", "Kenya", "Tanzania", "Rwanda", "Burundi", "Eritrea"]
+nile.discharge = 2830
 
 # mississippi = River.new 
 # mississippi.name = "Mississippi"
