@@ -18,6 +18,8 @@ end
 
 nile = River.new 
 nile.name = "Nile"
+nile.length = 6853
+nile.:countries = "Egypt", "Sudan", "south Sudan"
 
 mississippi = River.new 
 nile.name = "Mississippi"
