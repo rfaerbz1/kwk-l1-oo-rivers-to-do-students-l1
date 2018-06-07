@@ -30,6 +30,9 @@ mississippi.discharge = 593000
 
 amazon = River.new 
 amazon.name = "Amazon"
+amazon.length = 6992.6 
+amazon.:countries = "Brazil", "Columbia", "Peru"
+amazon.discharge = 209000
 
 seine = River.new 
 seine.name = "Seine"
