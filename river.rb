@@ -1,6 +1,6 @@
 # river.rb
 class River 
-  def initialize(name, discharge)
+  def initialize(name)
     @name = name
     @countries = countries
     @discharge = discharge
