@@ -48,6 +48,7 @@ amazon = River.new("Amazon")
 amazon.length = 6992.6 
 amazon.countries = "Brazil", "Columbia", "Peru"
 amazon.discharge = 209000
+amazon.flood
 
 seine = River.new("Seine")
 seine.length = 777
