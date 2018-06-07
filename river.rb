@@ -20,10 +20,11 @@ nile = River.new
 nile.name = "Nile"
 nile.length = 6853
 nile.:countries = "Egypt", "Sudan", "South Sudan", "Ethiopia", "Uganda", "Congo", "Kenya", "Tanzania", "Rwanda", "Burundi", "Eritrea"
-nile.discharge = 
+nile.discharge = 2830
 
 mississippi = River.new 
-nile.name = "Mississippi"
+mississippi.name = "Mississippi"
+mississippi.length = 
 
 amazon = River.new 
 amazon.name = "Amazon"
