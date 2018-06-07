@@ -1,10 +1,30 @@
 # river.rb
 class River 
-  def initialize(name, length, :countries, discharge)
+  def initialize(name, discharge)
     @name = name
-    @length = length
     @countries = countries
     @discharge = discharge
+    
+    def length= (length)
+      @length = length
+    end 
+    def length 
+      @length 
+    end
+    
+    def countries= (:countries)
+      @countries = :countries
+    end 
+    def countries
+      @countries
+    end
+    
+    def discharge= (discharge)
+      @discharge = discharge
+    end 
+    def discharge
+      @discharge
+    end
   end
   
   def flood 
