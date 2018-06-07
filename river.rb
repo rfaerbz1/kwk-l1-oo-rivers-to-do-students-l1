@@ -36,6 +36,9 @@ amazon.discharge = 209000
 
 seine = River.new 
 seine.name = "Seine"
+seine.length = 777
+seine.:countries = "France"
+seine.discharge = 560
 
 yangtze = River.new
 yangtze.name = "Yangtze"
