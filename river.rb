@@ -48,3 +48,6 @@ yangtze.discharge = 30166
 
 euphrates = River.new
 euphrates.name = "Euphrates"
+euphrates.length = 2800
+euphrates.:countries = "Iraq", "Syria", "Turkey"
+euphrates.discharge = 356
