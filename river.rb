@@ -24,7 +24,9 @@ nile.discharge = 2830
 
 mississippi = River.new 
 mississippi.name = "Mississippi"
-mississippi.length = 
+mississippi.length = 2320
+mississippi.:countries = "USA"
+mississippi.discharge = 593000
 
 amazon = River.new 
 amazon.name = "Amazon"
