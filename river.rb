@@ -12,8 +12,8 @@ class River
       @length 
     end
     
-    def countries= (:countries)
-      @countries = :countries
+    def countries= (countries)
+      @countries = countries
     end 
     def countries
       @countries
