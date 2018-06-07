@@ -42,6 +42,9 @@ seine.discharge = 560
 
 yangtze = River.new
 yangtze.name = "Yangtze"
+yangtze.length = 6357
+yangtze.:countries = "China"
+yangtze.discharge = 30166
 
 euphrates = River.new
 euphrates.name = "Euphrates"
